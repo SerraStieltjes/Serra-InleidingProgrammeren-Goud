@@ -1,0 +1,53 @@
+body {
+    background-color: rgb(251, 245, 226);
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(2, 74, 116);
+    font-size: 2em;
+}
+
+.afbeelding {
+    display: block;
+}
+
+.brokje {
+    width: 5em;
+    height: 5em;
+}
+
+figure {
+    display: flex;
+    color: rgb(2, 74, 116);
+}
+
+figcaption {
+    display: flex;
+    font-size: 50px;
+}
+
+#beloningTekst {
+    display: flex;
+    color: rgb(2, 74, 116);
+    font-size: 2em;
+}
+
+.knoppen {
+    width: 100%;
+    margin-left: 4em;
+}
+
+button {
+    background-color: rgb(2, 74, 116);
+    color: rgb(251, 245, 226);
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 5em;
+}
